@@ -42,10 +42,6 @@ These skills help you think through problems before writing code.
   npx skills@latest add mattpocock/skills/request-refactor-plan
   ```
 
-- **product-manager** — A vibe-coding product management operating system covering PRDs, architecture, security review, launch checks, monetization, and minimalist-entrepreneur workflows.
-
-  Source: [product-manager](https://github.com/lujiaheng2001-spec/skills/tree/main/product-manager)
-
 ## Development
 
 These skills help you write, refactor, and fix code.
